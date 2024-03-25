@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.fdb-block {
+    padding: 30px 0;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+:root {
+    --primary-Color: #7D81EA;
+    --secondary-Color: #97ABF7;
+    --text-Color: #192335;
+    --alert-Color: #0099ff;
+    --success-Color: #8BE0DD;
+    --warning-Color: #EE8800;
+    --error-Color: #FE514C;
+    --grey-Color: #6b7385;
+    --black-Color: #192335;
+    --main-Background-Color: #FFFFFF;
+    --secondary-Background-Color:#E4E9FD;
+    --secondary-Font: "Montserrat", sans-serif;
+    --button-padding: 11px 30px;
+    --button-border-radius: 6px;
+    --button-font-weight: 500;
+    --heading: 35px;
+    --heading-two: 25px;
+}
+/* headerh222fa673a781ab9e */
+.headerh222fa673a781ab9e .navbar-light .navbar-nav .active>.nav-link,
+.headerh222fa673a781ab9e .navbar-light .navbar-nav .nav-link{
+    color: var(--black-Color);
+}
+.headerh222fa673a781ab9e .navbar-light .navbar-nav .active>.nav-link:hover,
+.headerh222fa673a781ab9e .navbar-light .navbar-nav .nav-link:hover{
+    color: var(--primary-Color);
+}
+.headerh222fa673a781ab9e .fa-shopping-cart,
+.headerh222fa673a781ab9e .fa-user-plus{
+color: var(--primary-Color);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
