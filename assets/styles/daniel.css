@@ -22,7 +22,7 @@
     --main-Background-Color: #FFFFFF;
     --secondary-Background-Color:#E4E9FD;
     --secondary-Font: "Montserrat", sans-serif;
-    --button-padding: 11px 30px;
+    --button-padding: 15px 26px;
     --button-border-radius: 6px;
     --button-font-weight: 500;
     --heading: 35px;
@@ -41,36 +41,76 @@
 .headerh222fa673a781ab9e .fa-user-plus{
 color: var(--primary-Color);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* headerh222fa673a781ab9e */
+.headerb4ddd9e9eed437a92 .logo-header .logo{
+    display: none;
+}
+.headerb4ddd9e9eed437a92 .logo-header h2 {
+    font-size: 50px !important;
+    font-weight: 300;
+}
+.headerb4ddd9e9eed437a92 .logo-header .btn{
+    padding: var(--button-padding);
+    background-color: var(--secondary-Background-Color);
+    border: none;
+    font-weight: var(--button-font-weight);
+    color: var(--black-Color);
+    border-radius: var(--button-border-radius) !important;
+}
+.headerb4ddd9e9eed437a92 .logo-header .btn:hover {
+    color: var(--black-Color);
+    background-color: var(--success-Color);
+    border-color: var(--success-Color);
+}
+/* aboutab8dfbbd4bed */
+.aboutab8dfbbd4bed{
+    padding: 5em;
+}
+.aboutab8dfbbd4bed .description {
+    font-size: var(--heading);
+    color: var(--black-Color);
+    font-weight: var(--button-font-weight);
+}
+.aboutab8dfbbd4bed .Explore{
+    padding: var(--button-padding);
+    background-color: var(--primary-Color);
+    border: none;
+    font-weight: 500;
+    color: var(--black-Color);
+    border-radius: var(--button-border-radius) !important;
+}
+/* cypertests85306591c7940cb0 */
+.cypertests85306591c7940cb0 h2 {
+    font-size: var(--heading);
+    margin-bottom: 15px;
+}
+.cypertests85306591c7940cb0 a,
+.cypertests85306591c7940cb0 a:hover {
+    font-size: var(--heading-two);
+    color: var(--primary-Color);
+}
+/* crunellaobWyteyCWzRLkMG */
+.crunellaobWyteyCWzRLkMG h1 {
+    font-size: var(--heading);
+}
+.crunellaobWyteyCWzRLkMG .fdb-block img + h1, .fdb-block img + h2 {
+    margin-top: 15px;
+}
+/* counteraf598102c9dad94e */
+.counteraf598102c9dad94e{
+    padding-bottom: 7em;
+}
+.counteraf598102c9dad94e h2 {
+    font-size: var(--heading);
+    color: var(--error-Color);
+}
+/* aboute50d5193e4b9f737 */
+.aboute50d5193e4b9f737 h2 {
+    font-size: var(--heading);
+}
+.aboute50d5193e4b9f737 li{
+    font-weight: var(--button-font-weight);
+}
 
 
 
