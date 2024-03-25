@@ -187,8 +187,23 @@ color: var(--primary-Color);
     background-color: var(--error-Color);
     color: var(--secondary-Background-Color);
 }
-
-
-
-
-
+/* c617bbc778c75015 */
+.c617bbc778c75015 {
+    padding-bottom: 7em;
+}
+.c617bbc778c75015 h3 {
+    font-size: var(--heading);
+}
+/* footerf439c65adee997571 */
+.footerf439c65adee997571{
+    overflow: hidden;
+}
+.footerf439c65adee997571 .footer-links li a,
+.footerf439c65adee997571 .footer-category li a{
+    font-size: 16px;
+    color: var(--black-Color);
+}
+.footerf439c65adee997571 .copyright{
+    color: var(--black-Color);
+    background: var(--secondary-Background-Color);
+}
