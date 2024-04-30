@@ -202,6 +202,9 @@ color: var(--primary-Color);
 .fukraft73lhx26hp h3 {
     font-size: 25px;
 }
+.fukraft73lhx26hp .fdb-block{
+    padding: 0rem 0 !important;
+}
 /* servicecda4f61d9a1b5853 */
 .servicecda4f61d9a1b5853{
     padding: var(--section-padding);
